@@ -14,7 +14,7 @@ const tutorials = [
 
 
 const titleCased = () => {
-  return 
+  return tutorials
   
 
 }
