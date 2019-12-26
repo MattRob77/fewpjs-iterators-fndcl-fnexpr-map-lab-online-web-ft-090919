@@ -14,6 +14,7 @@ const tutorials = [
 
 
 const titleCased = () => {
+  
     return titleized
 
 }
