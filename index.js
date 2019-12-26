@@ -14,7 +14,7 @@ const tutorials = [
 
 
 const titleCased = () => {
-  return tutorials.map(sentence =>)
+  return tutorials.map(sentence =>
   
 
 }
